@@ -29,13 +29,13 @@ This theme requires `Node.js` version `>= 8.2`
 To install theme first clone this repo
 
 ```bash
-git clone https://github.com/vkovic/uikit-computer-store-template.git
+git clone https://github.com/xhostcomweb/uikit-store-sass.git
 ```
 
 and go to directory
 
 ```bash
-cd uikit-computer-store-template
+cd uikit-store-sass
 ```
 
 After this, there is 2 ways of installing it either using `npm` or `yarn`
