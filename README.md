@@ -1,14 +1,13 @@
 # Computer store e-commerce template
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/vkovic/uikit-computer-store-template/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)]
 
 ### Computer store e-commerce template built with `UIkit` using `Sass`
 
 UIKit eCommerce theme using Sass, to port in to Vue JS, with Gridsome
 
 
-Demo: 
-
+Demo: alive-plant.surge.sh
 
 ---
 
